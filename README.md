@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="assets/Data_Analyst_banner.jpg" alt="banner" style="max-width: 100%; height: auto;" />
-
+<div align="center" style="width: 100%; max-width: 1100px; height: 220px; overflow: hidden;">
+  <img src="assets/Data_Analyst_banner.jpg" alt="banner" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
 </div>
+
 
 ## Hi, My name is Carson 👋
 I am a Senior at Washington State University, and I study data analytics to make better data-driven decisions in my daily life.
