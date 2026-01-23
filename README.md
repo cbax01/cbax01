@@ -13,9 +13,9 @@ I am a Senior at Washington State University, and I study data analytics to make
 - 📫 Reach me: carsonbaxwork@gmail.com  
 
 ## Tech Stack
-**Languages:** … Python, R/R Studio, C/C++, SQL
-**ML/Data:** … Tableu.com, Kaggle.com, datasetsearch.research.google.com/ 
-**Tools:** … PowerBI, Jupyter Notebook, and Excel
+**Languages:** … Python, R/R Studio, C/C++, SQL  
+**ML/Data:** … Tableu.com, Kaggle.com, datasetsearch.research.google.com/  
+**Tools:** … PowerBI, Jupyter Notebook, and Excel  
 
 ## Featured Projects
 - ⭐ Repo 1 — 
