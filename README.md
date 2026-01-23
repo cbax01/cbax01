@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @cbax01
-- 👀 I’m interested in learning and coding.
-- 🌱 I’m currently learning Data Engineering mainly
 <div align="center">
   <img src="YOUR_BANNER_IMAGE_URL" alt="banner" />
 </div>
