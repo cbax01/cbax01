@@ -25,10 +25,13 @@ I am a Senior at Washington State University, and I study data analytics to make
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 [![Google Dataset Search](https://img.shields.io/badge/Google%20Dataset%20Search-4285F4?logo=google&logoColor=white)](https://datasetsearch.research.google.com/)
 
+
 ### Tools
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
+[![SnowFlake](https://www.snowflake.com/en/)
+[![Notion AI](https://www.notion.com/)
 <!---
 ## Featured Projects
 - ⭐ Repo 1 — 
