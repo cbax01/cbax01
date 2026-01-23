@@ -29,13 +29,13 @@ I am a Senior at Washington State University, and I study data analytics to make
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-
+<!---
 ## Featured Projects
 - ⭐ Repo 1 — 
 - ⭐ Repo 2 — 
 - ⭐ Repo 3 —
 
-<!---
+
 cbax01/cbax01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
