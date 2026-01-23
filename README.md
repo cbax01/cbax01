@@ -33,7 +33,16 @@ I am a Senior at Washington State University, and I study data analytics to make
 ## Featured Projects
 - ⭐ Repo 1 — 
 - ⭐ Repo 2 — 
-- ⭐ Repo 3 — 
+- ⭐ Repo 3 —
+
+- flowchart LR
+  A[Raw exports] --> B[Python: clean + QA]
+  B --> C[Excel: spot-check pivots]
+  C --> D[Python: analysis + features]
+  D --> E[SQL: curated tables]
+  E --> F[Power BI: dashboards]
+  F --> G[Project write-up]
+
 <!---
 cbax01/cbax01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
