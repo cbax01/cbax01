@@ -4,11 +4,11 @@
 </div>
 
 ## Hi, My name is Carson 👋
-I am a Senior at Washington State University, and I study data analytics to make better data-driven decisions in my daily life.
+I am a Senior at Washington State University, and I study data analytics to make better data-driven decisions
 
 - 🚗💨 Currently: I am currently working as a DoorDash Dasher to pay my way through college, but by night I am secretly using my personal data to analyze the best trends and times for maximum profit!  
 - 🧠 Interests: I enjoy white water kayaking, brazilian jiu jitsu, and a warm sauna after a workout  
-- 📫 Contacts me: carsonbaxwork@gmail.com  
+- 📫 Contact me: carsonbaxwork@gmail.com  
 
 ## Tech Stack
 
