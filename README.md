@@ -8,7 +8,7 @@ I am a Senior at Washington State University, and I study data analytics to make
 
 - 🔭 Currently: I am currently working as a DoorDash Dasher to pay my way through college, but by night I am secretly using my personal data to analyze the best trends and times for maximum profit!  
 - 🧠 Interests: I enjoy white water kayaking, brazilian jiu jitsu, and a warm sauna after a strong workout  
-- 📫 Reach me: carsonbaxwork@gmail.com  
+- 📫 Contacts me: carsonbaxwork@gmail.com  
 
 ## Tech Stack
 
@@ -17,7 +17,8 @@ I am a Senior at Washington State University, and I study data analytics to make
 [![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mysql.com/)
+
 
 ### ML / Data
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
