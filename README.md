@@ -18,7 +18,7 @@ I am a Senior at Washington State University, and I study data analytics to make
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.mysql.com/)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/htqzxHYoSV/)
 
 ### ML / Data
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
@@ -30,8 +30,11 @@ I am a Senior at Washington State University, and I study data analytics to make
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-[![SnowFlake](https://www.snowflake.com/en/)
-[![Notion AI](https://www.notion.com/)
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)](https://www.snowflake.com/en/)
+[![Notion](https://img.shields.io/badge/Notion%20AI-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.com/)
+
+### Practice
+
 <!---
 ## Featured Projects
 - ⭐ Repo 1 — 
