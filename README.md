@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="assets/Data_Analyst_banner.jpg" alt="banner" />
+  <img src="assets/Data_Analyst_banner.jpg" alt="banner" style="max-width: 100%; height: auto;" />
+
 </div>
 
 ## Hi, My name is Carson 👋
