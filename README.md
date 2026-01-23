@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%; max-width: 1100px; height: 220px; overflow: hidden;">
-  <img src="assets/Data_Analyst_banner.jpg" alt="banner" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
+  <img src="assets/CarsonB_Canva_Banner" alt="banner" style="width: 100%; height: 100%; object-fit: cover; object-position: center;" />
 </div>
 
 
@@ -11,9 +11,23 @@ I am a Senior at Washington State University, and I study data analytics to make
 - 📫 Reach me: carsonbaxwork@gmail.com  
 
 ## Tech Stack
-**Languages:** … Python, R/R Studio, C/C++, SQL  
-**ML/Data:** … Tableu.com, Kaggle.com, datasetsearch.research.google.com/  
-**Tools:** … PowerBI, Jupyter Notebook, and Excel  
+
+### Languages
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)](https://www.r-project.org/)
+[![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+
+### ML / Data
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.tableau.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+[![Google Dataset Search](https://img.shields.io/badge/Google%20Dataset%20Search-4285F4?logo=google&logoColor=white)](https://datasetsearch.research.google.com/)
+
+### Tools
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
 ## Featured Projects
 - ⭐ Repo 1 — 
