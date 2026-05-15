@@ -4,7 +4,7 @@
 </div>
 
 ## Hi, My name is Carson 👋
-I am a Senior at Washington State University, and I study data analytics to make better data-driven decisions
+I am a student in college and I study data analytics to make better data-driven decisions
 
 - 🚗💨 Currently: I am currently working as a DoorDash Dasher to pay my way through college, but by night I am secretly using my personal data to analyze the best trends and times for maximum profit!
 
